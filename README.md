@@ -31,7 +31,7 @@ An simple iOS game
 # :camera: Screenshots
 <div align="center">
    <video width="320" height="240" controls>
-  <source src="https://github.com/moraesnicol/FlappyDragon/blob/main/FlappyDragon.mp4" type="video/mp4">
+  <source src="FlappyDragon.mp4" type="video/mp4">
 </video>
 </div>
 
