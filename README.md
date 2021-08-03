@@ -30,7 +30,7 @@ An simple iOS game
 
 # :camera: Screenshots
 <div align="center">
-   ![](FlappyDragon.mp4)
+   ![FlappyDragon.mp4(https://github.com/moraesnicol/FlappyDragon/blob/main/FlappyDragon.mp4)
 </div>
 
 
