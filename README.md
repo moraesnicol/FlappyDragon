@@ -30,12 +30,9 @@ An simple iOS game
 
 # :camera: Screenshots
 <div align="center">
-   <img src="https://github.com/moraesnicol/LifeCycle-iOS/blob/main/1.png" >
+   <img src="https://github.com/moraesnicol/FlappyDragon/blob/main/FlappyDragon.mp4" >
 </div>
 
-<div align="center">
-<img src="https://github.com/moraesnicol/LifeCycle-iOS/blob/main/2.png" >
-</div>
 
 # :rocket: Technologies
 This project was made using the follow technologies:
