@@ -29,12 +29,8 @@ An simple iOS game
 * [License](#page_facing_up-license)
 
 # :camera: Screenshots
-<div align="center">
-   <video width="320" height="240" controls>
-  <source src="FlappyDragon.mp4" type="video/mp4">
-</video>
-</div>
 
+https://github.com/moraesnicol/FlappyDragon/blob/main/FlappyDragon.mp4
 
 # :rocket: Technologies
 This project was made using the follow technologies:
