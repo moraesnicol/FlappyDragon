@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  :heavy_check_mark: iOS LifeCycle
+  :heavy_check_mark: iOS game
 </p>
 
 <hr />
@@ -30,7 +30,7 @@ An simple iOS game
 
 # :camera: Screenshots
 <div align="center">
-   <img src="https://github.com/moraesnicol/FlappyDragon/blob/main/FlappyDragon.mp4" >
+   ![](my_video.mov)
 </div>
 
 
