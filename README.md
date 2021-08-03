@@ -34,9 +34,9 @@ An simple iOS game
 
 # :camera: Screenshots
 
-<p align="center">
+
 https://user-images.githubusercontent.com/14365242/128011103-4ca14dff-b998-47d4-a198-45cd0980c6be.mp4
-</p>
+
 
 # :rocket: Technologies
 This project was made using the follow technologies:
