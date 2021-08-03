@@ -1,4 +1,8 @@
 
+
+
+
+
          
 <p align="center">
    <img src="https://github.com/moraesnicol/tinder_iOS/blob/main/swift.png" alt="swift" width="300"/>
@@ -30,7 +34,7 @@ An simple iOS game
 
 # :camera: Screenshots
 
-https://github.com/moraesnicol/FlappyDragon/blob/main/FlappyDragon.mp4
+https://user-images.githubusercontent.com/14365242/128011103-4ca14dff-b998-47d4-a198-45cd0980c6be.mp4
 
 # :rocket: Technologies
 This project was made using the follow technologies:
